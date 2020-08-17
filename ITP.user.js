@@ -1,2 +1,2 @@
 // ==UserScript==
-// @na
+// @nam
