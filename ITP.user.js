@@ -1,2 +1,2 @@
 // ==UserScript==
-// @name       IT
+// @name       ITP
