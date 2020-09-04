@@ -1,3 +1,3 @@
 // ==UserScript==
 // @name       ITP
-// @namespace  htt
+// @namespace  http:
