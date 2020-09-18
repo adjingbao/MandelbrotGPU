@@ -1,3 +1,3 @@
 // ==UserScript==
 // @name       ITP
-// @namespace  http://thomshutt.com/greasemon
+// @namespace  http://thomshutt.com/greasemonke
