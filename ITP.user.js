@@ -2,4 +2,4 @@
 // @name       ITP
 // @namespace  http://thomshutt.com/greasemonkey
 // @version    0.1
-// @description Reminds you to use the 
+// @description Reminds you to use the IT
