@@ -5,4 +5,4 @@
 // @description Reminds you to use the ITP Amazon link 
 // @include    http*://amazon.*
 // @include    http*://www.amazon.*
-// @exclude    
+// @exclude    ht
