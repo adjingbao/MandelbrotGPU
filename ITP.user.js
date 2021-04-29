@@ -6,4 +6,4 @@
 // @include    http*://amazon.*
 // @include    http*://www.amazon.*
 // @exclude    http*://*amazon.*indietravel*
-// @exclude    http*://www.*
+// @exclude    http*://www.*.
