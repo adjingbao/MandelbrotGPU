@@ -8,4 +8,4 @@
 // @exclude    http*://*amazon.*indietravel*
 // @exclude    http*://www.*.amazon.*
 // @copyright  2013 Thom Shutt 
-// ==
+// ==/
