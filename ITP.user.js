@@ -10,4 +10,4 @@
 // @copyright  2013 Thom Shutt 
 // ==/UserScript==
 
-var n
+var node 
