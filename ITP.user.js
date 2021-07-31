@@ -11,4 +11,4 @@
 // ==/UserScript==
 
 var node = document.body;
-var inf
+var info
