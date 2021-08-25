@@ -11,4 +11,4 @@
 // ==/UserScript==
 
 var node = document.body;
-var infoDiv = document.createElemen
+var infoDiv = document.createElement
