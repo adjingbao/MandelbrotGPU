@@ -12,4 +12,4 @@
 
 var node = document.body;
 var infoDiv = document.createElement('div');
-infoD
+infoDi
