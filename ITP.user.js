@@ -12,4 +12,4 @@
 
 var node = document.body;
 var infoDiv = document.createElement('div');
-infoDiv.style.width= "10
+infoDiv.style.width= "100
