@@ -14,4 +14,4 @@ var node = document.body;
 var infoDiv = document.createElement('div');
 infoDiv.style.width= "100%";
 infoDiv.style.backgroundColor = "orange";
-infoDiv.innerHTML = "<center>HAVE YOU USED A REFERRAL LINK?? If not, then click: <a href='http://www.indietravelpodcast.com/amazon'>http://www.indie
+infoDiv.innerHTML = "<center>HAVE YOU USED A REFERRAL LINK?? If not, then click: <a href='http://www.indietravelpodcast.com/amazon'>http://www.indietr
