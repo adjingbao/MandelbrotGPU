@@ -15,4 +15,4 @@ var infoDiv = document.createElement('div');
 infoDiv.style.width= "100%";
 infoDiv.style.backgroundColor = "orange";
 infoDiv.innerHTML = "<center>HAVE YOU USED A REFERRAL LINK?? If not, then click: <a href='http://www.indietravelpodcast.com/amazon'>http://www.indietravelpodcast.com/amazon</a></center>";
-node.insertBefore(infoDiv, node.first
+node.insertBefore(infoDiv, node.firstCh
