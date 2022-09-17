@@ -1,1 +1,1 @@
-Greasemonkey-IndieT
+Greasemonkey-IndieTr
