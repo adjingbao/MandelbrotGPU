@@ -1,4 +1,4 @@
 Greasemonkey-IndieTravelPodcast
 ===============================
 
-A Greasem
+A Greasemo
