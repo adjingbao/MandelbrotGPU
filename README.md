@@ -1,4 +1,4 @@
 Greasemonkey-IndieTravelPodcast
 ===============================
 
-A Greasemonkey scrip
+A Greasemonkey script
