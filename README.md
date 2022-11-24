@@ -1,4 +1,4 @@
 Greasemonkey-IndieTravelPodcast
 ===============================
 
-A Greasemonkey script to remind users to use the ITP re
+A Greasemonkey script to remind users to use the ITP refe
